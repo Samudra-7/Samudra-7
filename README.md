@@ -12,7 +12,11 @@
 ![AI Documentation](https://img.shields.io/badge/AI-Documentation-purple)
 
 </p>
-
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/samudra-puzari-5a89a898/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:samudrapuzari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  </p>
 ---
 
 # 👋 About Me
@@ -64,19 +68,19 @@ MkDocs | Static documentation |
 
 My documentation workflow:
 
-1️⃣ - Requirement gathering
-2️⃣ - SME interviews
-3️⃣ - Content structuring
-4️⃣ - Draft creation
-5️⃣ - Technical review
-6️⃣ - Editing & proofreading
-7️⃣ - Publishing
+- 1️⃣  Requirement gathering
+- 2️⃣  SME interviews
+- 3️⃣  Content structuring
+- 4️⃣  Draft creation
+- 5️⃣  Technical review
+- 6️⃣  Editing & proofreading
+- 7️⃣  Publishing
 
 
 ## 🔌 API Documentation Example
 
 ### Example endpoint documentation.
-
+```json 
 GET /api/users
 
 Request
@@ -89,7 +93,7 @@ Response
  "name": "John Doe",
  "email": "john@example.com"
 }
-
+```
 ## 📑 Release Notes Example
 Version 2.1.0
 🚀 New Features
@@ -118,8 +122,4 @@ Certifications & learning areas:
 
 - Information Architecture
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/samudra-puzari-5a89a898/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:samudrapuzari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  </p>
+
