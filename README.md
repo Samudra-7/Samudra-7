@@ -64,23 +64,25 @@ MkDocs | Static documentation |
 
 My documentation workflow:
 
-1️⃣ Requirement gathering
-2️⃣ SME interviews
-3️⃣ Content structuring
-4️⃣ Draft creation
-5️⃣ Technical review
-6️⃣ Editing & proofreading
-7️⃣ Publishing
+1️⃣ - Requirement gathering
+2️⃣ - SME interviews
+3️⃣ - Content structuring
+4️⃣ - Draft creation
+5️⃣ - Technical review
+6️⃣ - Editing & proofreading
+7️⃣ - Publishing
 
 
-##🔌 API Documentation Example
+## 🔌 API Documentation Example
 
-Example endpoint documentation.
+### Example endpoint documentation.
 
 GET /api/users
+
 Request
 GET /api/users
 Authorization: Bearer TOKEN
+
 Response
 {
  "id": 1,
@@ -88,33 +90,33 @@ Response
  "email": "john@example.com"
 }
 
-##📑 Release Notes Example
+## 📑 Release Notes Example
 Version 2.1.0
 🚀 New Features
 
-Added analytics dashboard
+   - Added analytics dashboard
 
 ⚡ Improvements
 
-Faster API response
+   - Faster API response
 
 🐞 Bug Fixes
 
-Fixed login authentication issue
+   - Fixed login authentication issue
 
-##📈 Continuous Learning
+## 📈 Continuous Learning
 
 Certifications & learning areas:
 
-AI for Technical Writers
+- AI for Technical Writers
 
-API Documentation
+- API Documentation
 
-Docs-as-Code
+- Docs-as-Code
 
-Software Documentation Standards
+- Software Documentation Standards
 
-Information Architecture
+- Information Architecture
 
 ## 📫 Connect With Me
 <p align="center">
