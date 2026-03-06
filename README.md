@@ -11,8 +11,8 @@
 ![API Documentation](https://img.shields.io/badge/API-Documentation-orange)
 ![AI Documentation](https://img.shields.io/badge/AI-Documentation-purple)
 
+# 📫 Connect With Me
 </p>
-# 📫  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/samudra-puzari-5a89a898/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:samudrapuzari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
@@ -80,19 +80,41 @@ My documentation workflow:
 ## 🔌 API Documentation Example
 
 ### Example endpoint documentation.
+Endpoint
 ```json 
-GET /api/users
+GET /api/users/samudra
+```
+Description
+
+Returns the profile information of Samudra, including role, skills, and experience.
 
 Request
-GET /api/users
-Authorization: Bearer TOKEN
-```
 ```json
+GET https://api.example.com/api/users/samudra
+Authorization: Bearer _API_TOKEN
+```
+
 Response
+```json
+
 {
- "id": 1,
- "name": "John Doe",
- "email": "john@example.com"
+  "id": 007,
+  "name": "Samudra",
+  "username": "samudra_pj",
+  "role": "Technical Writer",
+  "experience_years": 9,
+  "skills": [
+    "API Documentation",
+    "MadCap Flare",
+    "Framemaker",
+    "Markdown",
+    "DITA",
+    "RoboHelp"
+    "XML"
+  ],
+  "location": "India",
+  "email": "samudrapuzari@gmail.com",
+  "status": "active"
 }
 ```
 ## 📑 Release Notes Example
@@ -123,4 +145,4 @@ Certifications & learning areas:
 
 - Information Architecture
 
-                               ----      ----       ----
+                            
