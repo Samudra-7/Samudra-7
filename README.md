@@ -60,6 +60,64 @@ Git / GitHub | Version control |
 MkDocs | Static documentation |
 ---
 
-# ⚙ Documentation Workflow
+## ⚙ 📖 Documentation Workflow
+
+My documentation workflow:
+
+1️⃣ Requirement gathering
+2️⃣ SME interviews
+3️⃣ Content structuring
+4️⃣ Draft creation
+5️⃣ Technical review
+6️⃣ Editing & proofreading
+7️⃣ Publishing
 
 
+##🔌 API Documentation Example
+
+Example endpoint documentation.
+
+GET /api/users
+Request
+GET /api/users
+Authorization: Bearer TOKEN
+Response
+{
+ "id": 1,
+ "name": "John Doe",
+ "email": "john@example.com"
+}
+
+##📑 Release Notes Example
+Version 2.1.0
+🚀 New Features
+
+Added analytics dashboard
+
+⚡ Improvements
+
+Faster API response
+
+🐞 Bug Fixes
+
+Fixed login authentication issue
+
+##📈 Continuous Learning
+
+Certifications & learning areas:
+
+AI for Technical Writers
+
+API Documentation
+
+Docs-as-Code
+
+Software Documentation Standards
+
+Information Architecture
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/samudra-puzari-5a89a898/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:samudrapuzari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  </p>
