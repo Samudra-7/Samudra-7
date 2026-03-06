@@ -12,12 +12,12 @@
 ![AI Documentation](https://img.shields.io/badge/AI-Documentation-purple)
 
 </p>
-## 📫 Connect With Me
+# 📫  Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/samudra-puzari-5a89a898/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:samudrapuzari@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
   </p>
----
+
 
 # 👋 About Me
 
@@ -86,7 +86,8 @@ GET /api/users
 Request
 GET /api/users
 Authorization: Bearer TOKEN
-
+```
+```json
 Response
 {
  "id": 1,
@@ -122,4 +123,4 @@ Certifications & learning areas:
 
 - Information Architecture
 
-
+                               ----      ----       ----
